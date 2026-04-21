@@ -179,7 +179,7 @@ After running the project, you should see:
 ## Author
 
 Rebecca Rosette Nanfuka  
-Master of Data Science 
-University of British Columbia
+Master of Data Science - University of British Columbia
+
 - GitHub: https://github.com/RNanfuka
 - LinkedIn: https://linkedin.com/in/rebecca-rosette-nanfuka-657b3920b
